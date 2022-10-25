@@ -1,4 +1,4 @@
-JDBC-null /w MysqlWorkBench 
+/w MysqlWorkBench 
 
 User settings -> user:javauser, password:java1234
 
